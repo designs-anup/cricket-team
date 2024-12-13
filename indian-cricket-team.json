@@ -1,0 +1,106 @@
+[
+{
+	"Name" : "Abhimanyu Easwaran",
+	"Batting-style" : "Right-handed",
+	"Domestic-team" : "Bengal",
+	"Forms" : ["Test"]
+},
+{
+	"Name" : "Ruturaj Gaikwad",
+	"Batting-style" : "Right-handed",
+	"Domestic-team" : "Maharashtra",
+	"IPL-Team" : "Chennai Super Kings",
+	"Forms" : ["Test"]
+},
+{
+	"Name" : "Shubman Gill",
+	"Batting-style" : "Right-handed",
+	"Bowling-style" : "Right-arm off spin",
+	"Domestic-team" : "Punjab",
+	"IPL-Team" : "Gujarat Titans",
+	"Forms" : ["Test","ODI","T20l"]
+},
+{
+	"Name" : "Shreyas Iyer",
+	"Batting-style" : "Right-handed",
+	"Bowling-style" : "Right-arm leg spin",
+	"Domestic-team" : "Mumbai",
+	"IPL-Team" : "Punjab Kings",
+	"Forms" : ["ODI"]
+},
+{
+	"Name" : "Yashasvi Jaiswal",
+	"Batting-style" : "Left-handed",
+	"Bowling-style" : "Right-arm leg spin",
+	"Domestic-team" : "Mumbai",
+	"IPL-Team" : "Rajasthan Royals",
+	"Forms" : ["Test","ODI"]
+},
+{
+	"Name" : "Sarfaraz Khan",
+	"Batting-style" : "Right-handed",
+	"Domestic-team" : "Mumbai",
+	"IPL-Team" : "Punjab Kings",
+	"Forms" : ["Test"]
+},
+{
+	"Name" : "Virat Kohli",
+	"Batting-style" : "Right-handed",
+	"Bowling-style" : "Right-arm medium",
+	"Domestic-team" : "Delhi",
+	"IPL-Team" : "Royal Challengers Bengaluru",
+	"Forms" : ["Test","ODI"]
+},
+{
+	"Name" : "Devdutt Padikkal",
+	"Batting-style" : "Right-handed",
+	"Domestic-team" : "Karnataka",
+	"IPL-Team" : "Royal Challengers Bengaluru",
+	"Forms" : ["Test"]
+},
+{
+	"Name" : "Riyan Parag",
+	"Batting-style" : "Right-handed",
+	"Bowling-style" : "Right-arm off break, leg break",
+	"Domestic-team" : "Assam",
+	"IPL-Team" : "Rajasthan Royals",
+	"Forms" : ["Test","T20l"]
+},
+{
+	"Name" : "Rajat Patidar",
+	"Batting-style" : "Right-handed",
+	"Domestic-team" : "Madhya Pradesh",
+	"IPL-Team" : "Royal Challengers Bengaluru"
+},
+{
+	"Name" : "Rohit Sharma",
+	"Batting-style" : "Right-handed",
+	"Bowling-style" : "Right-arm off break",
+	"Domestic-team" : "Mumbai",
+	"IPL-Team" : "Mumbai Indians",
+	"Forms" : ["Test","ODI"]
+},
+{
+	"Name" : "Rinku Singh",
+	"Batting-style" : "Left-handed",
+	"Bowling-style" : "Right-arm off break",
+	"Domestic-team" : "Uttar Pradesh",
+	"IPL-Team" : "Kolkata Knight Riders",
+	"Forms" : ["T20l"]
+},
+{
+	"Name" : "Sai Sudharsan",
+	"Batting-style" : "Left-handed",
+	"Bowling-style" : "Right-arm off break",
+	"Domestic-team" : "Tamil Nadu",
+	"IPL-Team" : "Gujarat Titans"
+},
+{
+	"Name" : "Suryakumar Yadav",
+	"Batting-style" : "Right-handed",
+	"Bowling-style" : "Right-arm off spin",
+	"Domestic-team" : "Mumbai",
+	"IPL-Team" : "Mumbai Indians",
+	"Forms" : ["T20l"]
+}
+]
